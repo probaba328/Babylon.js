@@ -1,0 +1,215 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "type": "phrase",
+      "english": "Could I get a flat white, please?",
+      "turkish": "Bir flat white alabilir miyim lütfen?",
+      "context": "Kafede sipariş verirken",
+      "emoji": "☕"
+    },
+    {
+      "id": 2,
+      "type": "word",
+      "english": "Serendipity",
+      "turkish": "Güzel bir tesadüf, şans eseri hoş bir şeyle karşılaşmak",
+      "context": "Soyut kelimeler",
+      "emoji": "✨",
+      "pronunciation": "/ˌser.ənˈdɪp.ɪ.ti/",
+      "example": "Finding that cozy café was pure serendipity.",
+      "exampleTr": "O şirin kafeyi bulmak tam bir serüvendi."
+    },
+    {
+      "id": 3,
+      "type": "quiz",
+      "english": "She don't know what to do.",
+      "turkish": "O ne yapacağını bilmiyor.",
+      "context": "Dilbilgisi testi",
+      "emoji": "📝",
+      "question": "Bu cümlede gramer hatası var mı?",
+      "isCorrect": false,
+      "explanation": "\"don't\" yerine \"doesn't\" kullanılmalı. She / He / It için \"does not\" gerekir."
+    },
+    {
+      "id": 4,
+      "type": "dialogue",
+      "english": "Asking for directions",
+      "turkish": "Yol sorma",
+      "context": "Sokakta yol sorarken",
+      "emoji": "🗺️",
+      "lines": [
+        { "speaker": "A", "english": "Excuse me, is there a pharmacy nearby?", "turkish": "Affedersiniz, yakınlarda bir eczane var mı?" },
+        { "speaker": "B", "english": "Yes, just turn left and it's on the corner.", "turkish": "Evet, soldan dönün, köşede." },
+        { "speaker": "A", "english": "Thank you so much!", "turkish": "Çok teşekkür ederim!" },
+        { "speaker": "B", "english": "No problem at all!", "turkish": "Hiç sorun değil!" }
+      ]
+    },
+    {
+      "id": 5,
+      "type": "phrase",
+      "english": "I'm afraid I can't make it tonight.",
+      "turkish": "Korkarım bu gece gelemeyeceğim.",
+      "context": "Davet reddetmek",
+      "emoji": "😔"
+    },
+    {
+      "id": 6,
+      "type": "word",
+      "english": "Overwhelmed",
+      "turkish": "Bunalmış, altında ezilmiş hissetmek",
+      "context": "Duygular",
+      "emoji": "😮‍💨",
+      "pronunciation": "/ˌoʊ.vəˈwelmd/",
+      "example": "I feel overwhelmed with all this work.",
+      "exampleTr": "Tüm bu işle bunalmış hissediyorum."
+    },
+    {
+      "id": 7,
+      "type": "quiz",
+      "english": "I have been to Paris last year.",
+      "turkish": "Geçen yıl Paris'e gittim.",
+      "context": "Dilbilgisi testi",
+      "emoji": "📝",
+      "question": "Bu cümlede gramer hatası var mı?",
+      "isCorrect": false,
+      "explanation": "Geçmiş bir zaman bildiren \"last year\" ile \"Present Perfect\" kullanılmaz. Doğrusu: \"I went to Paris last year.\""
+    },
+    {
+      "id": 8,
+      "type": "phrase",
+      "english": "Would you mind if I opened the window?",
+      "turkish": "Pencereyi açsam sakıncası var mı?",
+      "context": "Kibarca izin istemek",
+      "emoji": "🪟"
+    },
+    {
+      "id": 9,
+      "type": "dialogue",
+      "english": "At a restaurant",
+      "turkish": "Restoranda",
+      "context": "Restoranda sipariş",
+      "emoji": "🍽️",
+      "lines": [
+        { "speaker": "A", "english": "Are you ready to order?", "turkish": "Sipariş vermeye hazır mısınız?" },
+        { "speaker": "B", "english": "Yes, I'll have the pasta, please.", "turkish": "Evet, makarna alacağım lütfen." },
+        { "speaker": "A", "english": "Any drinks?", "turkish": "İçecek bir şey?" },
+        { "speaker": "B", "english": "Just sparkling water, thanks.", "turkish": "Sadece maden suyu, teşekkürler." }
+      ]
+    },
+    {
+      "id": 10,
+      "type": "word",
+      "english": "Procrastinate",
+      "turkish": "Ertelemek, bir şeyi sonraya bırakmak",
+      "context": "Günlük eylemler",
+      "emoji": "⏰",
+      "pronunciation": "/prəˈkræs.tɪ.neɪt/",
+      "example": "Stop procrastinating and start studying!",
+      "exampleTr": "Ertelemeyi bırak ve çalışmaya başla!"
+    },
+    {
+      "id": 11,
+      "type": "phrase",
+      "english": "It's not a big deal.",
+      "turkish": "Bu büyük bir mesele değil. / Önemli değil.",
+      "context": "Günlük konuşma",
+      "emoji": "🤷"
+    },
+    {
+      "id": 12,
+      "type": "quiz",
+      "english": "He plays football every Sunday.",
+      "turkish": "Her pazar futbol oynar.",
+      "context": "Dilbilgisi testi",
+      "emoji": "📝",
+      "question": "Bu cümlede gramer hatası var mı?",
+      "isCorrect": true,
+      "explanation": "Doğru! \"He plays\" — tekil 3. şahıs için fiil sonuna \"-s\" eklenir. Cümle gramer açısından tamamen doğru."
+    },
+    {
+      "id": 13,
+      "type": "dialogue",
+      "english": "Job interview",
+      "turkish": "İş görüşmesi",
+      "context": "İş görüşmesinde",
+      "emoji": "💼",
+      "lines": [
+        { "speaker": "A", "english": "Tell me about yourself.", "turkish": "Kendinizden bahsedin." },
+        { "speaker": "B", "english": "I'm a software developer with 3 years of experience.", "turkish": "3 yıl deneyimli bir yazılım geliştiricisiyim." },
+        { "speaker": "A", "english": "What are your strengths?", "turkish": "Güçlü yönleriniz neler?" },
+        { "speaker": "B", "english": "I'm a quick learner and a great team player.", "turkish": "Hızlı öğreniyor ve takım çalışmasına yatkınım." }
+      ]
+    },
+    {
+      "id": 14,
+      "type": "phrase",
+      "english": "I was wondering if you could help me.",
+      "turkish": "Acaba bana yardım edebilir misiniz?",
+      "context": "Kibarca yardım istemek",
+      "emoji": "🙏"
+    },
+    {
+      "id": 15,
+      "type": "word",
+      "english": "Ambiguous",
+      "turkish": "Belirsiz, iki anlama gelebilen, muğlak",
+      "context": "Akademik kelimeler",
+      "emoji": "🤔",
+      "pronunciation": "/æmˈbɪɡ.ju.əs/",
+      "example": "The instructions were too ambiguous to follow.",
+      "exampleTr": "Talimatlar takip etmek için çok belirsizdi."
+    },
+    {
+      "id": 16,
+      "type": "quiz",
+      "english": "She is more smarter than her brother.",
+      "turkish": "O kardeşinden daha akıllı.",
+      "context": "Dilbilgisi testi",
+      "emoji": "📝",
+      "question": "Bu cümlede gramer hatası var mı?",
+      "isCorrect": false,
+      "explanation": "\"more smarter\" yanlış — çift karşılaştırma hatası! Doğrusu \"smarter\" veya \"more intelligent\" şeklinde olmalı."
+    },
+    {
+      "id": 17,
+      "type": "phrase",
+      "english": "Let's catch up soon!",
+      "turkish": "Yakında buluşalım / görüşelim!",
+      "context": "Vedalaşırken",
+      "emoji": "👋"
+    },
+    {
+      "id": 18,
+      "type": "word",
+      "english": "Empathy",
+      "turkish": "Empati, başkasının duygularını hissedebilme",
+      "context": "Duygusal zeka",
+      "emoji": "💙",
+      "pronunciation": "/ˈem.pə.θi/",
+      "example": "Empathy is key to good communication.",
+      "exampleTr": "Empati, iyi iletişimin anahtarıdır."
+    },
+    {
+      "id": 19,
+      "type": "dialogue",
+      "english": "Making plans",
+      "turkish": "Plan yapmak",
+      "context": "Arkadaşla plan yaparken",
+      "emoji": "📅",
+      "lines": [
+        { "speaker": "A", "english": "Are you free this weekend?", "turkish": "Bu hafta sonu müsait misin?" },
+        { "speaker": "B", "english": "Saturday works for me. What did you have in mind?", "turkish": "Cumartesi olur. Ne düşündün?" },
+        { "speaker": "A", "english": "How about hiking?", "turkish": "Doğa yürüyüşü ne olur?" },
+        { "speaker": "B", "english": "Sounds great! I'm in.", "turkish": "Harika! Ben varım." }
+      ]
+    },
+    {
+      "id": 20,
+      "type": "phrase",
+      "english": "I couldn't agree more.",
+      "turkish": "Daha fazla hemfikir olamazdım. / Tamamen katılıyorum.",
+      "context": "Fikir birliği",
+      "emoji": "🤝"
+    }
+  ]
+}
